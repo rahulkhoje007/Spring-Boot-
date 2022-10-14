@@ -1,0 +1,9 @@
+view\PublicApp.class
+controller\RailwayCrossingController.class
+view\GovernmentApp.class
+view\RailwayCrossingApp.class
+model\RailwayCrossing.class
+controller\UserController.class
+db\DB.class
+db\DAO.class
+model\User.class
